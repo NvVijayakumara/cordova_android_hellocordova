@@ -1,0 +1,4 @@
+#Tue Dec 12 16:31:47 IST 2017
+base.0=C\:\\Users\\vijay\\Downloads\\cordova-android-master\\cordova-android-master\\bin\\HybridAndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+renamed.0=classes.dex
+file.0=C\:\\Users\\vijay\\Downloads\\cordova-android-master\\cordova-android-master\\bin\\HybridAndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2\\classes.dex

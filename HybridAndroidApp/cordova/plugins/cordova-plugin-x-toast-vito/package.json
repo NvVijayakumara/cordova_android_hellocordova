@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-x-toast-vito",
+  "version": "1.0.0",
+  "description": "for Android, iOS and WP8, by [Eddy Verbruggen](http://www.x-services.nl/phonegap-toast-plugin/796)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vito90 <ziedvito@hotmail.com>",
+  "license": "ISC"
+}

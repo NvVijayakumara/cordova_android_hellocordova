@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vijay\\Downloads\\cordova-android-master\\cordova-android-master\\bin\\HybridAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vijay\\Downloads\\cordova-android-master\\cordova-android-master\\bin\\HybridAndroidApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "355,148,245",
+                        "endColumns": "63,50,58",
+                        "endOffsets": "414,194,299"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,170",
+                        "endColumns": "63,50,58",
+                        "endOffsets": "114,165,224"
+                    }
+                }
+            ]
+        }
+    ]
+}

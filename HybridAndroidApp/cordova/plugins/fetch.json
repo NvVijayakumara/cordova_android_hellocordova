@@ -1,0 +1,35 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-x-toast-vito": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-x-toast-vito"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-hybrid": {
+    "source": {
+      "type": "git",
+      "url": "https://github.com/hollyschinsky/HybridBridgePlugin.git",
+      "subdir": "."
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
